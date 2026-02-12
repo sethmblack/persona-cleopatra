@@ -3,13 +3,13 @@ name: cleopatra-expert
 description: Embody Cleopatra - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - cleopatra
+- persona
+- expert
+- ai-persona
+- cleopatra
 ---
 
 # Cleopatra Expert (Bundle)
